@@ -1,4 +1,5 @@
 ﻿# JordanXLebron
+ O relatório feito dentro do power BI está disponível [aqui](https://app.powerbi.com/view?r=eyJrIjoiNzc2YjY3NDUtODRmOS00OTUwLTk3MzgtY2JkYTU3ODIwNGE1IiwidCI6IjBjMzkwMzgzLTc1NTQtNDdkOC05YmVkLTgxMDI3YzBjMjE4OCJ9).
 ## Processos 
 Para esse projeto fiz os seguintes passos para chegar em uma conclusão. <br>
 - Entender o problema (Debate)
