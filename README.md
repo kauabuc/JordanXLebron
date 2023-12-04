@@ -13,14 +13,14 @@ Para esse projeto fiz os seguintes passos para chegar em uma conclusão. <br>
 Em meio a debate sobre NBA com um grande amigo meu, voltamos aquela velha discussão sobre quem foi melhor Michael Jordan ou Lebron James, pensando nisso, a motivaçao de ir atras de umas respostas para entender quem é o melhor através das estatisticas disponiveis dentro da Nba dos dois, utilizei os dados da NBA que estavam disponíveis dentro do site do [Basketball Reference](https://www.basketball-reference.com). 
 
 ## O que fez 
-Entendi que para chegar a algum lugar seria necessário criar algumas perguntas sobre as métricas mais interessantes dentro da NBA, as que utilizei para chegar em minha conclusão foi. <br>
--Quem jogou mais?
--Quem tem mais vitórias?
--Quem tem mais títulos e prêmios?
--Quem performa melhor durante a temporada regular?
--Quem tem o melhor aproveitamento na temporada regular?
--Quem se sai melhor durante os playoffs?
--Quem tem as melhores/maiores marcas e feitos?
+Entendi que para chegar a algum lugar seria necessário criar algumas perguntas sobre as métricas mais interessantes dentro da NBA, as que utilizei para chegar em minha conclusão foi. <br> 
+- Quem jogou mais?
+- Quem tem mais vitórias?
+- Quem tem mais títulos e prêmios?
+- Quem performa melhor durante a temporada regular?
+- Quem tem o melhor aproveitamento na temporada regular?
+- Quem se sai melhor durante os playoffs?
+- Quem tem as melhores/maiores marcas e feitos?
 
 
 ## Como fez
